@@ -1,0 +1,24 @@
+:root {
+    --red: hsl(131, 86%, 23%);
+    --reds: hsl(132, 95%, 37%);
+ 
+}
+
+
+
+.red {
+    border-top: 3px solid var(--red);
+}
+
+.reds {
+    border-top: 3px solid var(--reds);
+}
+
+
+
+
+
+
+
+ 
+    
